@@ -1,2 +1,2 @@
 # grip
-Python implementation to interact with Global Routing Intelligence Platform API. 
+Python implementation to interact with the Global [Routing Intelligence Platform (GRIP)](https://grip.inetintel.cc.gatech.edu/) API. 
