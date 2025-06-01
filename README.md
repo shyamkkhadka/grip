@@ -1,2 +1,2 @@
 # grip
-Python implementation to interact with the Global [Routing Intelligence Platform (GRIP)](https://grip.inetintel.cc.gatech.edu/) API. 
+Python implementation to interact with the Global [Routing Intelligence Platform (GRIP)](https://grip.inetintel.cc.gatech.edu/) API for BGP route hijacks. 
